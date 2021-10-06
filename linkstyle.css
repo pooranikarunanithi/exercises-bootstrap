@@ -3,15 +3,15 @@
 
 .mycontainer{
  
-    background-color: purple;
-    border:1px solid black;
+    /*background-color: purple*/
+    border:2px solid black;
     border-radius: 5px;
 }
 
 
 .block{
    
-    background-color: violet;
+    /*background-color: violet*/;
     border:1px solid black;
     border-radius:5px;
      
@@ -25,5 +25,5 @@ h1{
 }
 .container
 {
-    background-color: purple;
+    /*background-color: purple;*/
 }
